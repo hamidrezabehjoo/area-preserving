@@ -1,0 +1,8 @@
+matplotlib
+tdqm
+wandb
+torch >2
+torchvision
+torchaudio
+networkx[default]
+pygraphviz
